@@ -1,0 +1,634 @@
+{
+    "pokemon": [
+        {
+            "name": "Pikachu",
+            "clues": [
+                "This Electric-type Pokémon is known for its yellow fur and pointy ears.",
+                "This Pokémon needs a Thunderstone to evolve further."
+            ]
+        },
+        {
+            "name": "Charizard",
+            "clues": [
+                "This Fire/Flying-type Pokémon is a fully evolved form of Charmander.",
+                "It can Mega Evolve."
+            ]
+        },
+        {
+            "name": "Bulbasaur",
+            "clues": [
+                "This Grass/Poison-type Pokémon has a plant bulb on its back.",
+                "It's one of the original Starter Pokémon."
+            ]
+        },
+        {
+            "name": "Squirtle",
+            "clues": [
+                "This Water-type Pokémon is known for its shell.",
+                "It's one of the original Starter Pokémon."
+            ]
+        },
+        {
+            "name": "Jigglypuff",
+            "clues": [
+                "This Normal/Fairy-type Pokémon can put others to sleep with its song.",
+                "It's known for its large, round eyes."
+            ]
+        },
+        {
+            "name": "Mewtwo",
+            "clues": [
+                "This Psychic-type Pokémon is known for its powerful psychic abilities.",
+                "It was created through genetic manipulation."
+            ]
+        },
+        {
+            "name": "Mew",
+            "clues": [
+                "This Psychic-type Pokémon is said to contain the DNA of all Pokémon.",
+                "It's known as the 'New Species' Pokémon."
+            ]
+        },
+        {
+            "name": "Gengar",
+            "clues": [
+                "This Ghost/Poison-type Pokémon is known for playing tricks on people.",
+                "It's said to emerge from darkness to steal the lives of those who become lost in mountains."
+            ]
+        },
+        {
+            "name": "Eevee",
+            "clues": [
+                "This Normal-type Pokémon can evolve into various different forms.",
+                "It's known for its unstable genetic makeup."
+            ]
+        },
+        {
+            "name": "Dragonite",
+            "clues": [
+                "This Dragon/Flying-type Pokémon is known for its friendly and gentle nature.",
+                "It can fly faster than the speed of sound."
+            ]
+        },
+        {
+            "name": "Gyarados",
+            "clues": [
+                "This Water/Flying-type Pokémon has a fearsome reputation for its temper.",
+                "It can Mega Evolve into an even more powerful form."
+            ]
+        },
+        {
+            "name": "Machamp",
+            "clues": [
+                "This Fighting-type Pokémon is known for its impressive physical strength.",
+                "It can throw hundreds of punches in a single second."
+            ]
+        },
+        {
+            "name": "Alakazam",
+            "clues": [
+                "This Psychic-type Pokémon possesses a high IQ and exceptional psychic powers.",
+                "It's known for its signature spoon, which it uses in its psychic abilities."
+            ]
+        },
+        {
+            "name": "Vaporeon",
+            "clues": [
+                "This Water-type Pokémon has the ability to melt into water.",
+                "It's known for its graceful swimming."
+            ]
+        },
+        {
+            "name": "Flareon",
+            "clues": [
+                "This Fire-type Pokémon has a fiery mane of fur.",
+                "It can raise its body temperature to more than 1,650 degrees Fahrenheit."
+            ]
+        },
+        {
+            "name": "Jolteon",
+            "clues": [
+                "This Electric-type Pokémon has sharp, needle-like fur.",
+                "It's known for its ability to generate and store electrical energy."
+            ]
+        },
+        {
+            "name": "Kangaskhan",
+            "clues": [
+                "This Normal-type Pokémon is known for its maternal instincts.",
+                "It's often seen carrying a baby Kangaskhan in its pouch."
+            ]
+        },
+        {
+            "name": "Lapras",
+            "clues": [
+                "This Water/Ice-type Pokémon is often seen ferrying people across water.",
+                "It's known for its beautiful singing voice."
+            ]
+        },
+        {
+            "name": "Snorlax",
+            "clues": [
+                "This Normal-type Pokémon is known for its love of sleeping and eating.",
+                "It's said to weigh more than a thousand pounds."
+            ]
+        },
+        {
+            "name": "Articuno",
+            "clues": [
+                "This Ice/Flying-type Pokémon is one of the Legendary Birds.",
+                "It's said to appear to doomed people who are lost in icy mountains."
+            ]
+        },
+        {
+            "name": "Zapdos",
+            "clues": [
+                "This Electric/Flying-type Pokémon is one of the Legendary Birds.",
+                "It's known for its ability to summon thunderstorms."
+            ]
+        },
+        {
+            "name": "Moltres",
+            "clues": [
+                "This Fire/Flying-type Pokémon is one of the Legendary Birds.",
+                "It's said to be born from the flames of volcanoes."
+            ]
+        },
+        {
+            "name": "Ditto",
+            "clues": [
+                "This Normal-type Pokémon has the ability to transform.",
+                "It can take on the appearance of any other Pokémon."
+            ]
+        },
+        {
+            "name": "Golem",
+            "clues": [
+                "This Rock/Ground-type Pokémon is known for its sturdy and robust body.",
+                "It can roll down steep mountains at speeds over 60 mph."
+            ]
+        },
+        {
+            "name": "Machop",
+            "clues": [
+                "This Fighting-type Pokémon is often seen training and building muscle.",
+                "It can lift heavy objects with ease."
+            ]
+        },
+        {
+            "name": "Geodude",
+            "clues": [
+                "This Rock/Ground-type Pokémon resembles a rocky boulder with arms.",
+                "It's known for causing frequent rockslides."
+            ]
+        },
+        {
+            "name": "Clefable",
+            "clues": [
+                "This Fairy-type Pokémon is known for its gentle and whimsical nature.",
+                "It's often seen dancing under the moonlight."
+            ]
+        },
+        {
+            "name": "Golbat",
+            "clues": [
+                "This Poison/Flying-type Pokémon has large, sharp fangs.",
+                "It's known for sucking blood from its prey."
+            ]
+        },
+        {
+            "name": "Dugtrio",
+            "clues": [
+                "This Ground-type Pokémon is known for its three heads.",
+                "It's often seen digging tunnels underground."
+            ]
+        },
+        {
+            "name": "Kabutops",
+            "clues": [
+                "This Rock/Water-type Pokémon resembles a prehistoric sea creature.",
+                "It's believed to be an ancient Pokémon revived from a fossil."
+            ]
+        },
+        {
+            "name": "Machoke",
+            "clues": [
+                "This Fighting-type Pokémon is known for its impressive physical strength.",
+                "It can throw punches at such high speed that they can't be seen by the naked eye."
+            ]
+        },
+        {
+            "name": "Pidgeot",
+            "clues": [
+                "This Normal/Flying-type Pokémon has powerful wings and keen eyesight.",
+                "It's known for soaring gracefully in the sky."
+            ]
+        },
+        {
+            "name": "Marowak",
+            "clues": [
+                "This Ground-type Pokémon wields a bone as a weapon.",
+                "It's often seen mourning the loss of its mother."
+            ]
+        },
+        {
+            "name": "Gardevoir",
+            "clues": [
+                "This Psychic/Fairy-type Pokémon is known for its elegant appearance.",
+                "It's said to have the power to create small black holes."
+            ]
+        },
+        {
+            "name": "Lucario",
+            "clues": [
+                "This Fighting/Steel-type Pokémon is known for its aura-sensing abilities.",
+                "It can Mega Evolve into a more powerful form."
+            ]
+        },
+        {
+            "name": "Garchomp",
+            "clues": [
+                "This Dragon/Ground-type Pokémon resembles a land-shark.",
+                "It's known for its incredible speed and power."
+            ]
+        },
+        {
+            "name": "Espeon",
+            "clues": [
+                "This Psychic-type Pokémon evolves from Eevee during the day.",
+                "It can predict its opponent's moves."
+            ]
+        },
+        {
+            "name": "Umbreon",
+            "clues": [
+                "This Dark-type Pokémon evolves from Eevee during the night.",
+                "It can blend into the darkness and become invisible."
+            ]
+        },
+        {
+            "name": "Steelix",
+            "clues": [
+                "This Steel/Ground-type Pokémon has a body made of steel.",
+                "It's known for burrowing deep underground."
+            ]
+        },
+        {
+            "name": "Tyranitar",
+            "clues": [
+                "This Rock/Dark-type Pokémon is known for causing sandstorms.",
+                "It's said to be able to destroy mountains."
+            ]
+        },
+        {
+            "name": "Gardevoir",
+            "clues": [
+                "This Psychic/Fairy-type Pokémon is known for its elegant appearance.",
+                "It's said to have the power to create small black holes."
+            ]
+        },
+        {
+            "name": "Salamence",
+            "clues": [
+                "This Dragon/Flying-type Pokémon resembles a dragon with wings.",
+                "It can fly at incredible speeds."
+            ]
+        },
+        {
+            "name": "Greninja",
+            "clues": [
+                "This Water/Dark-type Pokémon is known for its ninja-like appearance.",
+                "It can create illusory duplicates of itself."
+            ]
+        },
+        {
+            "name": "Gallade",
+            "clues": [
+                "This Psychic/Fighting-type Pokémon is the male counterpart of Gardevoir.",
+                "It's said to be chivalrous and protect those in need."
+            ]
+        },
+        {
+            "name": "Mimikyu",
+            "clues": [
+                "This Ghost/Fairy-type Pokémon hides its true form under a cloth disguise.",
+                "It imitates Pikachu to make friends."
+            ]
+        },
+        {
+            "name": "Hydreigon",
+            "clues": [
+                "This Dark/Dragon-type Pokémon has three heads.",
+                "Each of its heads has a different personality."
+            ]
+        },
+        {
+            "name": "Blastoise",
+            "clues": [
+                "This Water-type Pokémon has powerful water cannons on its back.",
+                "It's known for creating massive water blasts."
+            ]
+        },
+        {
+            "name": "Mudkip",
+            "clues": [
+                "This Water/Ground-type Pokémon is known for its love of water.",
+                "It can create mud puddles for fun."
+            ]
+        },
+        {
+            "name": "Gyarados",
+            "clues": [
+                "This Water/Flying-type Pokémon has a fearsome reputation for its temper.",
+                "It can Mega Evolve into an even more powerful form."
+            ]
+        },
+        {
+            "name": "Rayquaza",
+            "clues": [
+                "This Dragon/Flying-type Pokémon is one of the Legendary Pokémon.",
+                "It's known for its rivalry with Kyogre and Groudon."
+            ]
+        },
+        {
+            "name": "Blaziken",
+            "clues": [
+                "This Fire/Fighting-type Pokémon is known for its fiery kicks.",
+                "It can Mega Evolve into a more powerful form."
+            ]
+        },
+        {
+            "name": "Swampert",
+            "clues": [
+                "This Water/Ground-type Pokémon is known for its strong body.",
+                "It's said to create wetlands where it lives."
+            ]
+        },
+        {
+            "name": "Groudon",
+            "clues": [
+                "This Ground-type Pokémon is one of the Legendary Pokémon.",
+                "It's said to have created the continents."
+            ]
+        },
+        {
+            "name": "Kyogre",
+            "clues": [
+                "This Water-type Pokémon is one of the Legendary Pokémon.",
+                "It's said to have created the seas."
+            ]
+        },
+        {
+            "name": "Deoxys",
+            "clues": [
+                "This Psychic-type Pokémon has multiple forms.",
+                "It's known for its extraterrestrial origin."
+            ]
+        },
+        {
+            "name": "Arceus",
+            "clues": [
+                "This Normal-type Pokémon is said to be the 'God' of all Pokémon.",
+                "It's said to have created the Pokémon world."
+            ]
+        },
+        {
+            "name": "Darkrai",
+            "clues": [
+                "This Dark-type Pokémon is known for causing nightmares.",
+                "It's said to live in a realm of darkness."
+            ]
+        },
+        {
+            "name": "Giratina",
+            "clues": [
+                "This Ghost/Dragon-type Pokémon is one of the Legendary Pokémon.",
+                "It's said to come from an alternate dimension."
+            ]
+        },
+        {
+            "name": "Zygarde",
+            "clues": [
+                "This Dragon/Ground-type Pokémon is known for its cells.",
+                "It can change form depending on its core."
+            ]
+        },
+        {
+            "name": "Decidueye",
+            "clues": [
+                "This Grass/Ghost-type Pokémon is known for its archery skills.",
+                "It can shoot arrows with its wings."
+            ]
+        },
+        {
+            "name": "Incineroar",
+            "clues": [
+                "This Fire/Dark-type Pokémon is known for its wrestling moves.",
+                "It can create fire from its belt-like fur."
+            ]
+        },
+        {
+            "name": "Primarina",
+            "clues": [
+                "This Water/Fairy-type Pokémon is known for its singing.",
+                "It can create water balloons and use them in battle."
+            ]
+        },
+        {
+            "name": "Magnezone",
+            "clues": [
+                "This Electric/Steel-type Pokémon is known for its magnetic body.",
+                "It can generate strong magnetic fields."
+            ]
+        },
+        {
+            "name": "Empoleon",
+            "clues": [
+                "This Water/Steel-type Pokémon is known for its regal appearance.",
+                "It has a trident-like beak."
+            ]
+        },
+        {
+            "name": "Infernape",
+            "clues": [
+                "This Fire/Fighting-type Pokémon is known for its fiery fighting style.",
+                "It can use its flames to boost its speed."
+            ]
+        },
+        {
+            "name": "Lopunny",
+            "clues": [
+                "This Normal/Fighting-type Pokémon is known for its elegant appearance.",
+                "It can deliver powerful punches."
+            ]
+        },
+        {
+            "name": "Electivire",
+            "clues": [
+                "This Electric-type Pokémon has electric outlets on its body.",
+                "It can discharge high-voltage electricity."
+            ]
+        },
+        {
+            "name": "Togekiss",
+            "clues": [
+                "This Fairy/Flying-type Pokémon is known for its angelic appearance.",
+                "It spreads happiness and joy."
+            ]
+        },
+        {
+            "name": "Dusknoir",
+            "clues": [
+                "This Ghost-type Pokémon is known for its enigmatic presence.",
+                "It's said to guide spirits to the afterlife."
+            ]
+        },
+        {
+            "name": "Roserade",
+            "clues": [
+                "This Grass/Poison-type Pokémon is known for its roses and elegance.",
+                "It releases toxic spores from its bouquet."
+            ]
+        },
+        {
+            "name": "Honchkrow",
+            "clues": [
+                "This Dark/Flying-type Pokémon is known for its gangster-like appearance.",
+                "It's the leader of a group known as the 'Murkrow Gang.'"
+            ]
+        },
+        {
+            "name": "Mamoswine",
+            "clues": [
+                "This Ice/Ground-type Pokémon resembles a mammoth.",
+                "It can cause avalanches with its tusks."
+            ]
+        },
+        {
+            "name": "Weavile",
+            "clues": [
+                "This Dark/Ice-type Pokémon is known for its speed and cunning.",
+                "It's said to be a skilled hunter."
+            ]
+        },
+        {
+            "name": "Magmortar",
+            "clues": [
+                "This Fire-type Pokémon has powerful cannons on its arms.",
+                "It can shoot fireballs with great accuracy."
+            ]
+        },
+        {
+            "name": "Togekiss",
+            "clues": [
+                "This Fairy/Flying-type Pokémon is known for its angelic appearance.",
+                "It spreads happiness and joy."
+            ]
+        },
+        {
+            "name": "Porygon-Z",
+            "clues": [
+                "This Normal-type Pokémon is known for its digital and glitchy appearance.",
+                "It's said to exist in cyberspace."
+            ]
+        },
+        {
+            "name": "Gallade",
+            "clues": [
+                "This Psychic/Fighting-type Pokémon is the male counterpart of Gardevoir.",
+                "It's said to be chivalrous and protect those in need."
+            ]
+        },
+        {
+            "name": "Garchomp",
+            "clues": [
+                "This Dragon/Ground-type Pokémon resembles a land-shark.",
+                "It's known for its incredible speed and power."
+            ]
+        },
+        {
+            "name": "Rhyperior",
+            "clues": [
+                "This Ground/Rock-type Pokémon is known for its rugged body.",
+                "It can cause tremors by stomping the ground."
+            ]
+        },
+        {
+            "name": "Milotic",
+            "clues": [
+                "This Water-type Pokémon is known for its graceful and serpentine body.",
+                "It's said to have a calming aura."
+            ]
+        },
+        {
+            "name": "Leafeon",
+            "clues": [
+                "This Grass-type Pokémon evolves from Eevee near a Moss Rock.",
+                "It's often seen basking in the sun."
+            ]
+        },
+        {
+            "name": "Gliscor",
+            "clues": [
+                "This Ground/Flying-type Pokémon is known for its flying prowess.",
+                "It can glide silently through the night."
+            ]
+        },
+        {
+            "name": "Mismagius",
+            "clues": [
+                "This Ghost-type Pokémon is known for its mystical and witch-like appearance.",
+                "It's said to cast spells with its cries."
+            ]
+        },
+        {
+            "name": "Toxicroak",
+            "clues": [
+                "This Poison/Fighting-type Pokémon is known for its toxic skin.",
+                "It can deliver poisonous punches."
+            ]
+        },
+        {
+            "name": "Abomasnow",
+            "clues": [
+                "This Grass/Ice-type Pokémon is known for its snowy appearance.",
+                "It's said to bring blizzards wherever it goes."
+            ]
+        },
+        {
+            "name": "Glaceon",
+            "clues": [
+                "This Ice-type Pokémon evolves from Eevee near an Ice Rock.",
+                "It can lower the temperature in its vicinity."
+            ]
+        },
+        {
+            "name": "Porygon-Z",
+            "clues": [
+                "This Normal-type Pokémon is known for its digital and glitchy appearance.",
+                "It's said to exist in cyberspace."
+            ]
+        },
+        {
+            "name": "Rampardos",
+            "clues": [
+                "This Rock-type Pokémon is known for its powerful headbutts.",
+                "It has a thick, sturdy skull."
+            ]
+        },
+        {
+            "name": "Bastiodon",
+            "clues": [
+                "This Rock/Steel-type Pokémon is known for its shield-like face.",
+                "It can withstand powerful attacks."
+            ]
+        },
+        {
+            "name": "Cherrim",
+            "clues": [
+                "This Grass-type Pokémon changes its form based on the weather.",
+                "It becomes more vibrant in sunlight."
+            ]
+        }
+    ]
+}
